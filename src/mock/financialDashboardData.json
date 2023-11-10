@@ -1,0 +1,141 @@
+{
+  "user": {
+    "name": "Ryan",
+    "lastname": "Florence",
+    "avatar":"https://bit.ly/ryan-florence"
+  },
+  "cashInBank": {
+    "total": "$616.5k",
+    "graph": [
+      {
+        "name": "January",
+        "total": 590
+      },
+      {
+        "name": "February",
+        "total": 868
+      },
+      {
+        "name": "March",
+        "total": 1397
+      },
+      {
+        "name": "April",
+        "total": 1480
+      },
+      {
+        "name": "June",
+        "total": 1520
+      },
+      {
+        "name": "July",
+        "total": 1400
+      }
+    ]
+  },
+  "burn": {
+    "total": "$63.9k",
+    "graph": [
+      {
+        "name": "January",
+        "total": 590
+      },
+      {
+        "name": "February",
+        "total": 868
+      },
+      {
+        "name": "March",
+        "total": 1397
+      },
+      {
+        "name": "April",
+        "total": 1480
+      },
+      {
+        "name": "June",
+        "total": 1520
+      },
+      {
+        "name": "July",
+        "total": 1400
+      }
+    ]
+  },
+  "expenses": {
+    "total": "$235.123",
+    "graph": [
+      {
+        "name": "January",
+        "salary": 7000,
+        "fixed": 4400,
+        "expenses": 2400
+      },
+      {
+        "name": "February",
+        "salary": 7500,
+        "fixed": 4400,
+        "expenses": 2210
+      },
+      {
+        "name": "March",
+        "salary": 7300,
+        "fixed": 4600,
+        "expenses": 2290
+      },
+      {
+        "name": "April",
+        "salary": 8000,
+        "fixed": 3400,
+        "expenses": 2000
+      },
+      {
+        "name": "June",
+        "salary": 7700,
+        "fixed": 4400,
+        "expenses": 2181
+      },
+      {
+        "name": "July",
+        "salary": 7600,
+        "fixed": 3800,
+        "expenses": 2500
+      }
+    ]
+  },
+  "solvency": {
+    "total": "10.8mth",
+    "graph": [
+      {
+        "name": "January",
+        "income": 4000,
+        "outgoing": 2400
+      },
+      {
+        "name": "February",
+        "income": 3000,
+        "outgoing": 1398
+      },
+      {
+        "name": "March",
+        "income": 2000,
+        "outgoing": 9800
+      },
+      {
+        "name": "April",
+        "income": 2780,
+        "outgoing": 3908
+      },
+      {
+        "name": "June",
+        "income": 1890,
+        "outgoing": 4800
+      },
+      {
+        "name": "July",
+        "income": 2390,
+        "outgoing": 3800
+      }
+    ]
+  }
+}
