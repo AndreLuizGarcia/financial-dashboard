@@ -1,46 +1,62 @@
-# Getting Started with Create React App
+<br/>
+<p align="center">
+  <a href="https://github.com/ShaanCoding/ReadME-Generator">
+    <img src="https://cdn.dribbble.com/users/129972/screenshots/2798320/media/aa55d4fa933a7708dcd8a77a7d9ac64d.png" alt="Logo" width="80" height="80">
+  </a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <h3 align="center">Financial Dashboard</h3>
 
-## Available Scripts
+  <p align="center">
+    An application to help you understand how is the financial health of your business.
+    <br/>
+    <br/>
+    <a href="https://financial-dashboard-taupe.vercel.app">View Demo</a>
+  </p>
+</p>
 
-In the project directory, you can run:
+## About The Project
 
-### `npm start`
+![Screen Shot](https://github.com/AndreLuizGarcia/financial-dashboard/blob/main/.blob/financial-dashboard.gif?raw=true)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Welcome to our Financial Dashboard project, a powerful tool designed to provide a comprehensive and user-friendly interface for monitoring and analyzing financial data. Whether you are a business owner, financial analyst, or an individual looking to manage personal finances, this dashboard is tailored to meet your needs.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+The dashboard aggregates data from various sources and presents key financial metrics and insights in a visually appealing and intuitive manner.
 
-### `npm test`
+## Built With
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This project was made using the following libraries:
 
-### `npm run build`
+- [React](https://react.dev/)
+- [Chakra.ui](https://chakra-ui.com/)
+- [Recharts](https://recharts.org/)
+- [Zustand](https://zustand-demo.pmnd.rs/)
+- [Lottie](https://lottiereact.com/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+🚀 Want to run? Important Commands to help you
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To get a local copy up and running follow these simple example steps.
 
-### `npm run eject`
+### Prerequisites
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Install the dependencies and run in dev mode by running:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```sh
+yarn install
+yarn start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Installation
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+1. Clone the repo
 
-## Learn More
+```sh
+https://github.com/AndreLuizGarcia/financial-dashboard.git
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+2. Install NPM packages
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```sh
+npm install or yarn install
+```
