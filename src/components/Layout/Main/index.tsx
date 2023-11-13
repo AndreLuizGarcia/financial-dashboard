@@ -13,19 +13,19 @@ import SolvencyChart from '../../SolvencyChart';
 const charts = [
   {
     id: 'cashInBank',
-    component: <CashInBankChart />
+    component: CashInBankChart
   },
   {
     id: 'burn',
-    component: <BurnChart />
+    component: BurnChart
   },
   {
     id: 'expenses',
-    component: <ExpensesChart />
+    component: ExpensesChart
   },
   {
     id: 'solvency',
-    component: <SolvencyChart />
+    component: SolvencyChart
   }
 ];
 
@@ -48,7 +48,9 @@ const GridWrapper = ({ children }: PropsWithChildren) => {
 function Main() {
   return (
     <GridWrapper>
-      {charts.map((chart) => chart.component)}
+      {charts.map((Chart) => (
+        <Chart.component key={Chart.id} />
+      ))}
       <AddMoreGraphsCard />
     </GridWrapper>
   );
